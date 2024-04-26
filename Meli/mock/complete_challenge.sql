@@ -48,7 +48,7 @@ VALUES
 (4, 'Pedro', 'Costa', 'pedro@example.com', 'M', 'Rua das Pedras', '1976-12-28', '(41) 98765-1234'),
 (5, 'Juliana', 'Pereira', 'juliana@example.com', 'F', 'Av. Central', '1995-08-03', '(51) 32145-9876'),
 (6, 'Carlos', 'Souza', 'carlos@example.com', 'M', 'Rua das Montanhas', '1982-06-17', '(61) 33333-3333'),
-(7, 'Fernanda', 'Lima', 'fernanda@example.com', 'F', 'Rua das Fontes', '1992-04-25', '(71) 99999-9999'),
+(7, 'Fernanda', 'Lima', 'fernanda@example.com', 'F', 'Rua das Fontes', '1992-04-26', '(71) 99999-9999'),
 (8, 'Rafael', 'Almeida', 'rafael@example.com', 'M', 'Av. das Torres', '1989-09-12', '(81) 77777-7777'),
 (9, 'Mariana', 'Rodrigues', 'mariana@example.com', 'F', 'Rua das Praias', '1980-04-08', '(91) 88888-8888'),
 (10, 'Gabriel', 'Ribeiro', 'gabriel@example.com', 'M', 'Av. dos Lagos', '1973-11-30', '(01) 66666-6666');

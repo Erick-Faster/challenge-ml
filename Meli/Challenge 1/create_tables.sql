@@ -20,14 +20,13 @@ CREATE TABLE IF NOT EXISTS Produto(
   id_produto INT PRIMARY KEY,
   nome VARCHAR(32) not NULL,
   descricao VARCHAR(512),
-  cliente_id INT NOT NULL, -- Vendedor do Produto
+  cliente_id INT NOT NULL,
   categoria_id INT,
   valor DECIMAL(8,2) NOT NULL,
   data_baixa DATE,
   estado VARCHAR(8) DEFAULT 'Ativo',
   FOREIGN KEY (cliente_id) REFERENCES Cliente(id_cliente),
   FOREIGN KEY (categoria_id) REFERENCES Categoria(id_categoria)
-  
 );
 
 CREATE TABLE IF NOT EXISTS Pedido(
