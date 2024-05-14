@@ -1,4 +1,4 @@
-# Projetos de Demonstração para Entrevista - Mercado Livre
+# Cases - Mercado Livre
 
 ## 1. Análise de Insights para Ofertas-Relâmpago
 
