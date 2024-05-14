@@ -2,11 +2,11 @@
 
 ## 1. Análise de Insights para Ofertas-Relâmpago
 
-O primeiro script neste realiza uma análise detalhada do dataset ofertas-relâmpago, a fim de responder a seguinte pergunta: "Qual o melhor período para se anunciar uma oferta-relâmpago de um produto de determinada categoria?"
+O primeiro script neste realiza uma análise detalhada do dataset ofertas-relâmpago, a fim de responder a seguinte pergunta: "Qual o melhor e pior período para se anunciar uma oferta-relâmpago de um produto de determinada categoria?"
 
 ## 2. Análise de Similaridade de Produtos
 
-O segundo script concentra-se na análise de similaridade entre produtos. O script utiliza algoritmos simples para calcular a proximidade entre diferentes itens, possibilitando uma melhor compreensão das relações entre produtos, a fim de possibilitar recomendações personalizadas e agrupamento eficiente de inventário.
+O segundo script concentra-se na análise de similaridade entre produtos. O script utiliza um algorítmo baseado em geometria analítica para calcular a proximidade entre diferentes itens, a fim de possibilitar recomendações personalizadas e agrupamento eficiente de inventário.
 
 ## 3. Machine Learning para Predição de Falhas de Dispositivos
 
